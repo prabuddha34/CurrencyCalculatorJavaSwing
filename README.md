@@ -23,5 +23,4 @@ The app uses basic GUI components such as:
 
 ## 📸 Screenshot
 
-> You can include a screenshot here by uploading an image and linking it:
-
+![Screenshot 2025-05-24 161535](https://github.com/user-attachments/assets/80e1c2dc-6430-4625-978d-01af62abc9a5)
